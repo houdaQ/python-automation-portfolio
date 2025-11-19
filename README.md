@@ -37,3 +37,5 @@ Bulk email sender with personalization, rate limiting, and error handling. Proce
 
 ---
 💡 **Need custom automation?** Contact me for freelance work.
+
+**Contact:** Available on Upwork | Fiverr | Email: houdanajib.alaoui@gmail.com
