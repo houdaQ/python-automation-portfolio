@@ -243,7 +243,7 @@ Free to use for personal and commercial projects.
 
 ## Contact
 
-Built by [Your Name] - Available for freelance automation projects
+Built by Houda Najib_Alaoui - Available for freelance automation projects
 
 ---
 
