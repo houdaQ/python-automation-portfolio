@@ -5,12 +5,19 @@ Professional Python tool for sending personalized bulk emails from CSV data. Per
 ✨ Features
 
 ✅ Bulk email sending from CSV files
+
 ✅ Personalized messages with variable substitution
+
 ✅ Rate limiting to prevent spam detection
+
 ✅ Error handling and retry logic
+
 ✅ Progress tracking and detailed logs
+
 ✅ Gmail/Outlook/Custom SMTP support
+
 ✅ Professional summary statistics
+
 
 🎯 Use Cases
 
@@ -25,7 +32,10 @@ Follow-up sequences
 pandas>=1.5.0
 Install with:
 bashpip install -r requirements.txt
+
+
 🚀 Quick Start
+
 1. Prepare Your CSV File
 Create contacts.csv with these columns:
 csvemail,name
@@ -34,6 +44,7 @@ jane@example.com,Jane Doe
 contact@company.com,Company Name
 Required column: email
 Optional column: name (for personalization)
+
 2. Configure Email Settings
 Edit the script configuration:
 pythonSMTP_SERVER = "smtp.gmail.com"
@@ -54,13 +65,14 @@ Use this in the script
 4. Customize Your Email
 pythonSUBJECT = "Your Subject Here"
 BODY = """Hello {name},
-
 Your personalized message here.
 Use {name} for automatic name insertion.
 
 Best regards,
 Your Name
+
 """
+
 5. Run the Script
 bashpython email_sender.py
 📊 Output Example
@@ -79,11 +91,17 @@ Delay between emails: 2s
 ...
 
 ==================================================
+
 📊 SUMMARY
+
 ==================================================
+
 ✓ Successfully sent: 48
+
 ✗ Failed: 2
+
 ⏱ Duration: 112.3 seconds
+
 ==================================================
 
 ✅ Process complete!
