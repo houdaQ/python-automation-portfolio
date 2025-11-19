@@ -1,5 +1,7 @@
 Automated Email Sender
+
 Professional Python tool for sending personalized bulk emails from CSV data. Perfect for email marketing, outreach campaigns, and automated notifications.
+
 ✨ Features
 
 ✅ Bulk email sending from CSV files
