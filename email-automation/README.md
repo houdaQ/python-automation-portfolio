@@ -12,6 +12,12 @@ Professional Python tool for sending personalized bulk emails from CSV data. Bui
 - Gmail/Outlook/Custom SMTP support
 - Professional summary statistics
 
+## Demo
+
+![Email Output Example](./email_output_example.png)
+
+*Example of automated email sent with personalization. The script successfully delivered a professional email with custom formatting and feature highlights.*
+
 ## Use Cases
 
 - Email marketing campaigns
