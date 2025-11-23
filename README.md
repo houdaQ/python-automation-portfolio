@@ -26,10 +26,14 @@ Bulk email sender with personalization, rate limiting, and error handling. Proce
 **Use Case:** Email marketing, outreach campaigns, automated notifications  
 **Features:** Rate limiting, error handling, progress tracking, CSV processing
 
+### 2. [Web Scraping Tool](./web-scraper)
+Professional web scraper that extracts data from any website and exports to CSV/Excel. Includes rate limiting, error handling, and progress tracking.
+
+**Tech:** Python, BeautifulSoup, Pandas, Requests  
+**Use Case:** E-commerce data, price monitoring, lead generation, research
 ---
 
 ## 🚀 Coming Soon
-- Web scraping automation
 - Data processing pipelines
 - File organization tools
 - API integration scripts
